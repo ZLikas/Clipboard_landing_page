@@ -1,12 +1,217 @@
 body {
 margin: 0px;
 }
+main {
+width: 312px;
+margin: 0 auto;
+text-align: center;
+font-family: 'Bai Jamjuree', sans-serif; 
+}
+h1, h2 {
+    color: hsl(210, 10%, 33%);
+}
+p {
+    color: hsl(201, 11%, 66%);
+}
+/*Mobile CSS*/
+/*Header*/
 header {
     background-image: url(images/bg-header-mobile.png);
-    height: 360px;
+    height: 292px;
     width: 100%;
     display: flex;
 }
 .cPosition {
     margin: 122px auto;
 }
+
+/*Section One*/
+ 
+.section_P {
+    line-height: 27px;
+    margin-top: -9px;
+}
+.button_One {
+    display: block;
+    padding: 19px;
+    text-decoration: none;
+    background-color: hsl(171, 66%, 44%);
+    color: white;
+    margin-top: 46px;
+    margin-bottom: 22px;
+    border-radius: 30px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+}
+.button_Two {
+    display: block;
+    padding: 19px;
+    text-decoration: none;
+    background-color: hsl(233, 100%, 69%);
+    color: white;
+    border-radius: 30px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+}
+ /*section TWO*/
+
+ .section_TWO {
+    margin-top: 160px;
+ }
+ .section_One_h1 {
+    font-size: 1.7em;
+    margin-bottom: 23px;
+ }
+ .laptopImage {
+    width: 312px;
+    margin: 2.9em 0 2em 0;
+ }
+ .h2_one {
+    margin-bottom: 11px;
+ }
+ .p_one {
+    line-height: 1.6em;
+    margin-top: 0;
+    margin-bottom: 3em;
+ }
+ .h2_two {
+    margin-bottom: 12px;
+ }
+ .p_two {
+    margin: 13px 16px 49px 16px;
+    line-height: 24px;
+ }
+ .h2_three {
+    margin-bottom: 0px;
+ }
+ .p_three {
+    margin-top: 12px;
+    line-height: 24px;
+ }
+
+ /*Section Three*/
+ .section_THREE {
+    margin-top: 188px;
+ }
+ .h1_section3 {
+    font-size: 28px;
+ }
+ .p_section3_one {
+    line-height: 24px;
+ }
+ .deviceImages {
+    margin-top: 47px;
+    width: 344px;
+    margin-left: -15px;
+ }
+
+ /*Section FOUR*/
+
+ .section_FOUR {
+    margin-top: 93px;
+ }
+ .h1_section4 {
+    font-size: 28px;
+    margin-bottom: 13px;
+ }
+ .p_section4_one {
+    margin-top: 0px;
+    margin-bottom: 91px;
+    line-height: 24px;
+ }
+ .h2_section4_one {
+    margin-top: 36px;
+ }
+ .p_section4_two {
+    line-height: 25px;
+    margin-top: 19px;
+    margin-bottom: 57px;
+ }
+ .h2_section4_two {
+    margin-top: 43px;
+ }
+ .p_section4_two {
+    line-height: 24px;
+ }
+ .h2_section4_three {
+    margin-top: 42px;
+ }
+ .p_section4_three {
+    line-height: 24px;
+ }
+ /*Section FIVE*/
+ .logo1 {
+    display: block;
+    margin: 133px auto 57px;
+    width: 141px;
+ }
+ .logo2 {
+    display: block;
+    margin: 66px auto 62px;
+    width: 113px;
+ }
+ .logo3 {
+    display: block;
+    margin: 71px auto 55px;
+    width: 130px;
+ }
+ .logo4 {
+    display: block;
+    margin: 62px auto 20px;
+    width: 130px;
+ }
+ .logo5{
+    display: block;
+    margin: 51px auto 62px;
+    width: 103px;
+ }
+
+ /*Section SIX*/
+
+ .section_SIX {
+    margin-top: 170px;
+ }
+ .h1_section6 {
+    font-size: 27px;
+    margin-bottom: 2px;
+ }
+ .p_section6_one {
+    line-height: 24px;
+    margin: 23px 13px 48px 13px;
+ }
+
+ /*FOOTER*/
+.footer1 {
+    background-color: #f2f3f1;
+}
+
+ .footerLogo {
+    margin: 171px auto 40px;
+    padding-top: 51px;
+    width: 56px;
+    display: flex;
+
+ }
+ 
+ .link1 {
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    font-size: 20px;
+    color:  hsl(210, 10%, 33%);;
+    font-family: 'Bai Jamjuree', sans-serif; 
+    margin-bottom: 25px;
+ }
+ .icons {
+    display: flex;
+    justify-content: center;
+    margin: 53px auto;
+    padding-bottom: 50px;
+ }
+ .fb_icon {
+margin-right: 40px;
+ }
+ .tw_icon {
+margin-right: 40px;
+ }
+
