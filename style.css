@@ -1,0 +1,12 @@
+body {
+margin: 0px;
+}
+header {
+    background-image: url(images/bg-header-mobile.png);
+    height: 360px;
+    width: 100%;
+    display: flex;
+}
+.cPosition {
+    margin: 122px auto;
+}
