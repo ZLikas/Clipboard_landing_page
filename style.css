@@ -204,7 +204,7 @@ header {
  }
 
  /*FOOTER*/
-.footer1 {
+.footeradjust {
     background-color: #f2f3f194;
 }
 
@@ -429,7 +429,7 @@ margin-right: 40px;
    margin: 23px 350px 62px;
 }
 /*Footer*/
-.footer1 {
+.footeradjust {
    display: flex;
    margin-top: 171px;
    
