@@ -243,6 +243,7 @@ margin-right: 40px;
  @media screen and (min-width: 1300px) {
    .QuerryDisplay_One {
       display: flex;
+       justify-content: center;
    }
  }
 
